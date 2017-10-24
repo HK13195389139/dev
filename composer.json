@@ -1,0 +1,14 @@
+{
+    "name": "hkang/dev",
+    "description": "你炸了炸了炸了啦啦啦啦分页类 名字怎么难取瞬间爆炸啊",
+    "type": "\u001b[A\u001b[Blib",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
